@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/FirstApp/FirstApp.csproj": {}
+    "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/PascalEh67/FirstApp/FirstApp.csproj": {}
   },
   "projects": {
-    "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/FirstApp/FirstApp.csproj": {
+    "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/PascalEh67/FirstApp/FirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/FirstApp/FirstApp.csproj",
+        "projectUniqueName": "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/PascalEh67/FirstApp/FirstApp.csproj",
         "projectName": "FirstApp",
-        "projectPath": "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/FirstApp/FirstApp.csproj",
+        "projectPath": "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/PascalEh67/FirstApp/FirstApp.csproj",
         "packagesPath": "/Users/pascal.eh67/.nuget/packages/",
-        "outputPath": "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/FirstApp/obj/",
+        "outputPath": "/Users/pascal.eh67/Documents sur Google Drive/PROFESSIONNEL/99. PROJETS DEV/PascalEh67/FirstApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pascal.eh67/.nuget/NuGet/NuGet.Config"
